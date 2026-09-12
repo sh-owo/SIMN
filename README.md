@@ -1,1 +1,1 @@
-# SIMN
+# SIMN - Shunting-Inhibition Modulated Network

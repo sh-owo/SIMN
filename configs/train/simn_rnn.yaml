@@ -1,0 +1,16 @@
+name: simn-rnn
+epochs: 50
+batch_size: 64
+num_workers: 4
+
+optimizer: adamw
+lr_peak: 1e-3
+lr_end: 1e-4
+weight_decay: 1e-4
+warmup_epochs: 2
+grad_clip: 1.0
+
+log_interval: 2
+val_freq: 2
+resume: null
+checkpoint: checkpoints/

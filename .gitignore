@@ -122,3 +122,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+
+/data
+# Trained model artifacts
+/checkpoints
+# Hydra / run artifacts
+/outputs/
+/runs/
+/wandb/

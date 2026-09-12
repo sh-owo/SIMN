@@ -1,0 +1,5 @@
+type: ucr
+name: ucr_128_2018
+path: data/UCRArchive_2018
+datasets: [all]
+normalize: true

@@ -1,0 +1,9 @@
+name: simn-rnn
+hidden_size: 16
+num_layers: 2
+rank: 8
+alpha: 0.05
+shunt_gain: 1.0
+bias: true
+chunk: 64
+torch_compile: auto
